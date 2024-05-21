@@ -1,0 +1,20 @@
+INDEX VERSION 1.131+C:\src\Java\workspaces\Work\api-payment-samples\.metadata\.plugins\org.eclipse.jdt.core
+3685896811.index
+1114185257.index
+4067280516.index
+776918835.index
+584870014.index
+1109808404.index
+3322733897.index
+1721273916.index
+2984750879.index
+2637356857.index
+2896735077.index
+1860117055.index
+130571618.index
+1140932456.index
+4245680466.index
+1491205904.index
+2272362309.index
+4055408970.index
+2020362163.index

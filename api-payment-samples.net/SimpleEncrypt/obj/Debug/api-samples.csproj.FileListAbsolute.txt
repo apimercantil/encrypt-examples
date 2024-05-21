@@ -1,0 +1,11 @@
+C:\src\.net\Projects\AESSample\SimpleEncrypt\bin\Debug\SimpleEncrypt.exe.config
+C:\src\.net\Projects\AESSample\SimpleEncrypt\bin\Debug\SimpleEncrypt.exe
+C:\src\.net\Projects\AESSample\SimpleEncrypt\bin\Debug\SimpleEncrypt.pdb
+C:\src\.net\Projects\AESSample\SimpleEncrypt\obj\Debug\com.mercantilbanco.api.sample.Form1.resources
+C:\src\.net\Projects\AESSample\SimpleEncrypt\obj\Debug\com.mercantilbanco.api.sample.Properties.Resources.resources
+C:\src\.net\Projects\AESSample\SimpleEncrypt\obj\Debug\api-samples.csproj.GenerateResource.Cache
+C:\src\.net\Projects\AESSample\SimpleEncrypt\obj\Debug\SimpleEncrypt.exe
+C:\src\.net\Projects\AESSample\SimpleEncrypt\obj\Debug\SimpleEncrypt.pdb
+C:\src\.net\Projects\api-payment-samples\SimpleEncrypt\bin\Debug\SimpleEncrypt.exe.config
+C:\src\.net\Projects\api-payment-samples\SimpleEncrypt\obj\Debug\SimpleEncrypt.exe
+C:\src\.net\Projects\api-payment-samples\SimpleEncrypt\obj\Debug\SimpleEncrypt.pdb

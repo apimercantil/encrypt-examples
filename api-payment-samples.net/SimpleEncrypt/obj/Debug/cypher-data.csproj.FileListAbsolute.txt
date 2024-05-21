@@ -1,0 +1,9 @@
+C:\src\.net\Projects\api-payment-samples\SimpleEncrypt\bin\Debug\cypher-data.exe.config
+C:\src\.net\Projects\api-payment-samples\SimpleEncrypt\bin\Debug\cypher-data.exe
+C:\src\.net\Projects\api-payment-samples\SimpleEncrypt\bin\Debug\cypher-data.pdb
+C:\src\.net\Projects\api-payment-samples\SimpleEncrypt\obj\Debug\cypher-data.csprojResolveAssemblyReference.cache
+C:\src\.net\Projects\api-payment-samples\SimpleEncrypt\obj\Debug\com.mercantilbanco.api.sample.Form1.resources
+C:\src\.net\Projects\api-payment-samples\SimpleEncrypt\obj\Debug\com.mercantilbanco.api.sample.Properties.Resources.resources
+C:\src\.net\Projects\api-payment-samples\SimpleEncrypt\obj\Debug\cypher-data.csproj.GenerateResource.Cache
+C:\src\.net\Projects\api-payment-samples\SimpleEncrypt\obj\Debug\cypher-data.exe
+C:\src\.net\Projects\api-payment-samples\SimpleEncrypt\obj\Debug\cypher-data.pdb

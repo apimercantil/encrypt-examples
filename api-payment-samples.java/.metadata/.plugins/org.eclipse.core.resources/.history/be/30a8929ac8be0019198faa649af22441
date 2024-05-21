@@ -1,0 +1,19 @@
+import com.mercantilbanco.epgw.commons.Util;
+
+public class cryptoaes {
+	public static void main(String[] args) {
+		
+		Util util = new Util();		
+		/* CVV */
+		String encrypdata = util.encrypt("A9279120481620090622AA30","752");
+		System.out.println("encrypdata = " + encrypdata);
+
+		/* Clave telefonica */
+		String encrypdata = util.encrypt("A9279120481620090622AA30","752");
+		System.out.println("encrypdata = " + encrypdata);
+
+		String decryptdata = util.decrypt("A9279120481620090622AA30", "48puf7tJdJv8grWMpNIhUw==");
+		System.out.println("encrypdata1 = " + decryptdata);
+		
+	}
+}
