@@ -1,8 +1,9 @@
-# Ejemplos de encriptación
+# Ejemplos de ecriptado y desencriptado 
 
 ### Índice
 
-1. [Ejemplo de encriptación en Java](./api-payment-samples.java/)
-2. [Ejemplo de encriptación en .NET](./api-payment-samples.net/)
-3. [Ejemplo de encriptación en php](./api-payment-samples.php/)
-4. [Ejemplo de encriptación en Javascript (Node.js)](./Javascript(Node.js)/)
+1. [Ejemplo de ecriptado y desencriptado en Java](./Java/).<br>
+1.1. [Ejemplo de ecriptado y desencriptado de archivos en Java](./Java/encrypt-files/src/com/bancomercantil/crypto/Crypto.java).
+2. [Ejemplo de ecriptado y desencriptado en .NET](./.Net/).
+3. [Ejemplo de ecriptado y desencriptado en php](./PHP/).
+4. [Ejemplo de ecriptado y desencriptado en Javascript (Node.js)](./Javascript(Node.js)/).
