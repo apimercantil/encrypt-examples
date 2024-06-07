@@ -1,9 +1,0 @@
-import com.mercantilbanco.epgw.commons.Util;
-
-public class cryptoaes {
-	public static void main(String[] args) {
-		Util util = new Util();
-		util.encrypt("499","A9279120481620090622AA30");
-		System.out.println("Hello World!");
-	}
-}
